@@ -9,4 +9,4 @@ Platform:
 Spyder (others may work too)
 
 Operation:
-Write the ransomware name you want to search on Line 15 (ransomsearch = "xxx"). If you want to search the files, make "download_active = 0". If you want to download the files make "download_active = 1" on Line 17.
+Write the ransomware name you want to search on Line 15 (ransomsearch = "xxx"). If you want to search the files, make "download_active = 0" on Line 17. If you want to download the files make "download_active = 1" on Line 17.
