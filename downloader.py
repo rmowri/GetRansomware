@@ -10,7 +10,7 @@ import requests
 from bs4 import BeautifulSoup
 
 """
-Parameeters
+Parameters
 """
 ransomsearch = "Razi"
 pages_to_crawl = 5
